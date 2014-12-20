@@ -1,7 +1,7 @@
 ==================================================================
 analysis_run.R
 Version 1.0
-==================================================================
+
 Maria Lee-Salisbury
 Johns Hopkins University
 Coursera
