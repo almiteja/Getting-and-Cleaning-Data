@@ -1,8 +1,7 @@
 DATA DICTIONARY – MSALISBURYTIDYDATA
 
 SUBJECT	2 	INT
-Subject Identifier.  This attribute identifies the person who was part of the experiment.  It is an integer value that uniquely 
-identifies the test subject.
+Subject Identifier.  This attribute identifies the person who was part of the experiment.  It is an integer value that uniquely identifies the test subject.
 
 1	Volunteer person # 1
 2	Volunteer person # 2
@@ -47,8 +46,7 @@ This attribute describes the activity being performed by the test subject.  Ther
 
 
 FEATURE	20 	CHAR
-This attribute holds labels that represent a different feature of the human activity experiment. The labels are a combination of truncated 
-words, or abbreviations that each describe a different facet of the experiment.  Therefore, the following letters within the labels are 
+This attribute holds labels that represent a different feature of the human activity experiment. The labels are a combination of truncated words, or abbreviations that each describe a different facet of the experiment.  Therefore, the following letters within the labels are 
 described as such:
 
 t = denotes the domain over which the signals were captured
@@ -133,7 +131,6 @@ fBodyGyroMagmean
 fBodyGyroMagstd
 fBodyGyroJerkMagmean
 fBodyGyroJerkMagstd
-
 
 
 MEAN		DECIMAL(12, 10) 	NUMERIC
